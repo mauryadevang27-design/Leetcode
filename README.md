@@ -8,8 +8,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mauryadevang27-design/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/mauryadevang27-design/Leetcode/tree/master/0050-powx-n) |
+| [1952-three-divisors](https://github.com/mauryadevang27-design/Leetcode/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mauryadevang27-design/Leetcode/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/mauryadevang27-design/Leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/mauryadevang27-design/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
