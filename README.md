@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mauryadevang27-design/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/mauryadevang27-design/Leetcode/tree/master/0050-powx-n) |
+| [0412-fizz-buzz](https://github.com/mauryadevang27-design/Leetcode/tree/master/0412-fizz-buzz) |
 | [1925-count-square-sum-triples](https://github.com/mauryadevang27-design/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/mauryadevang27-design/Leetcode/tree/master/1952-three-divisors) |
 ## Recursion
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/mauryadevang27-design/Leetcode/tree/master/1952-three-divisors) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mauryadevang27-design/Leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mauryadevang27-design/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
